@@ -1,0 +1,16 @@
+{
+  "name": "json-server-deploy",
+  "version": "1.0.0",
+  "description": "Um banco de dados simples",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "json-server,render, node, REST API"
+  ],
+  "author": "Daniel",
+  "dependencies": {
+    "json-server": "^0.17.1"
+  }
+}
